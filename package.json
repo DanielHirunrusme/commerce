@@ -9,7 +9,7 @@
     "prettier-fix": "prettier --write .",
     "find:unused": "next-unused",
     "generate": "graphql-codegen",
-    "generate:definitions": "node framework/bigcommerce/scripts/generate-definitions.js"
+    "generate:definitions": "node framework/shopify/scripts/generate-definitions.js"
   },
   "sideEffects": false,
   "license": "MIT",
